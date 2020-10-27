@@ -16,9 +16,9 @@ android {
 
         buildConfigField "String", "TRAKT_API_KEY", "\"bfe769a892be70c926f9e73dff15d9637354b3037e91a6a2d1f7e680b0beb410\""
         buildConfigField "String", "TRAKT_API_BASE_URL", "\"https://api.trakt.tv/\""
-        buildConfigField "String", "OMDB_API_KEY", "\"9cd64c2\""
-        buildConfigField "String", "OMDB_API_BASE_URL", "\"https://www.omdbapi.com/\""
         buildConfigField "String", "OMDB_API_KEY", "\"748543e5\""
+        buildConfigField "String", "OMDB_API_BASE_URL", "\"https://www.omdbapi.com/\""
+
     }
 
     buildTypes {
